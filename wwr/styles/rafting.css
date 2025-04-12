@@ -6,7 +6,6 @@
   align-items: center;
   gap: 1rem;
   width: 100%;
-  margin: 1rem auto;
 }
 
 /* Navigation spacing using Flexbox */
@@ -42,7 +41,6 @@
   flex-wrap: wrap;
   gap: 1rem;
 }
-
 
 :root {
     --primary-color: #24A4D9;     /* Piction Blue */
@@ -153,7 +151,7 @@
   
 
   footer {
-    background-color: var(--accent2-color);
+    background-color: var(--accent1-color);
     color: var(--secondary-color);
     text-align: center;
     padding: 1rem;
